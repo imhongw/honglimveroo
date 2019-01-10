@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Hong Wei</title>
+    <link>https://imhongw.github.io/</link>
+    <description>Recent content on About Hong Wei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://imhongw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://imhongw.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imhongw.github.io/blog/</guid>
+      <description> A Reflection on My NUS Journey </description>
+    </item>
+    
+    <item>
+      <title>Lim Hong Wei</title>
+      <link>https://imhongw.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imhongw.github.io/resume/</guid>
+      <description>Email: l_hongwei@u.nus.edu GitHub: https://github.com/imhongw LinkedIn: https://www.linkedin.com/in/hongwei-lim/ WWW: https://imhongw.github.io   Education National University of Singapore ASEAN Scholarship  Bachelor of Engineering (Computer Engineering), 2015 - present
+Bachelor of Social Sciences (Economics), 2015 - present (expected to graduate fall of 2019)
+ University Scholars Programme (USP), 2015 - present   Experience Auk Industries, Singapore Systems Engineer Intern
+Jan 2018 - present A Singapore based start up that implements performance tracking of manufacturing machines through plug-and-play ready, edge IOT devices, that will allow users to execute important business decisions.</description>
+    </item>
+    
+  </channel>
+</rss>
